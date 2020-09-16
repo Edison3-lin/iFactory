@@ -1,0 +1,7 @@
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\ediso\AppData\Roaming
+COMMONPROGRAMFI LES: C:\Program Files (x86)\Common Files
+COMMONPROGRAMFIL starttime 2020-09-10 12:01:20 ES(X86): C:\Program Files (x86)\Common Files
+ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+OS: Windows_NT start time 2020-19-10 12:01:20
+PATH: D:\MVC\xxx\xxx/Scripts;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;POWERSHELL_DISTRIBUTION_CHANNEL: PSES

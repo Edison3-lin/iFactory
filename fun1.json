@@ -1,0 +1,98 @@
+[
+    {
+        "dev_id": "8086",
+        "status": "alive"
+    },
+    {
+        "dev_id": "8087",
+        "status": "alive"
+    },
+    {
+        "dev_id": "8088",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "8089",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1987",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1988",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1989",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1997",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1991",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1992",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1993",
+        "status": "alive"
+    },
+    {
+        "dev_id": "1995",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "8086",
+        "status": "alive"
+    },
+    {
+        "dev_id": "8087",
+        "status": "alive"
+    },
+    {
+        "dev_id": "8088",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "8089",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1987",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1988",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1989",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1997",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1991",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1992",
+        "status": "disconnect"
+    },
+    {
+        "dev_id": "1993",
+        "status": "alive"
+    },
+    {
+        "dev_id": "1995",
+        "status": "disconnect"
+    }
+]
